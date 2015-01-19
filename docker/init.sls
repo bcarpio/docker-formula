@@ -1,4 +1,4 @@
-base:
+docker-repo:
   pkgrepo.managed:
     - humanname: Docker PPA
     - name: deb https://get.docker.com/ubuntu docker main
